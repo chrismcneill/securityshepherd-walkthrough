@@ -15,10 +15,10 @@ Examples
 
 ### Burpsuite
 
-[burpsuite1]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/src/common/images/burpsuite1.png "Burpsuite Setup Screenshot"
-[burpsuite2]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/src/common/images/burpsuite2.png "Burpsuite Setup Screenshot"
-[burpsuite3]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/src/common/images/burpsuite3.png "Burpsuite Setup Screenshot"
-[burpsuite4]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/src/common/images/burpsuite4.png "Burpsuite Setup Screenshot"
+[burpsuite1]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/common/images/burpsuite1.png "Burpsuite Setup Screenshot"
+[burpsuite2]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/common/images/burpsuite2.png "Burpsuite Setup Screenshot"
+[burpsuite3]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/common/images/burpsuite3.png "Burpsuite Setup Screenshot"
+[burpsuite4]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/common/images/burpsuite4.png "Burpsuite Setup Screenshot"
 
 1. Open Burpsuite (This should be achievable by double-clicking on the .jar, however some people may need to use the command prompt and run java -jar <burpsuiteFileName>.jar within the directory that burpsuite was downloaded to), and go to the "Proxy" tab, then select the "Options" tab.
 ![burpsuite proxy options][burpsuite1]
@@ -38,9 +38,9 @@ It is easier to intercept the traffic using Mozilla Firefox because it allows yo
 
 ### Firefox
 
-[firefox1]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/src/common/images/firefox1.png "Firefox Proxy Setup Screenshot"
-[firefox2]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/src/common/images/firefox2.png "Firefox Proxy Setup Screenshot"
-[firefox3]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/src/common/images/firefox3.png "Firefox Proxy Setup Screenshot"
+[firefox1]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/common/images/firefox1.png "Firefox Proxy Setup Screenshot"
+[firefox2]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/common/images/firefox2.png "Firefox Proxy Setup Screenshot"
+[firefox3]: https://github.com/chrismcneill/securityshepherd-walkthrough/raw/master/common/images/firefox3.png "Firefox Proxy Setup Screenshot"
 
 1. Open the firefix menu, and select "Options"
     ![Firefox Options][firefox1]
