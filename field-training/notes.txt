@@ -1,0 +1,16 @@
+Green - Direction
+Yellow - explainations, (eg what password data is being typed)
+
+
+Green:
+
+    Step 1. Examine the current behaviour. 
+    Step 2. Examine possible weakness.
+    
+
+
+Yellow:
+
+    Check if any server requests were sent and examine their contents.
+
+
